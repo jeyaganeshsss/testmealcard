@@ -1,0 +1,28 @@
+.Titlelabel
+{
+    text-align: right!important;
+    font-weight:500;
+   
+}
+.Datalabel
+{
+    text-align: left;
+    font-weight:500;
+}
+.Headerlabel
+{
+    text-align: right!important;
+    font-weight:500;
+    color: gray;
+}
+
+.Totallabel
+{
+    text-align: right!important;
+    font-weight:bold;
+}
+.successimg
+{
+    width: 100px;
+    height: 100px;
+}
